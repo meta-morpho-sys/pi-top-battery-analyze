@@ -17,7 +17,7 @@ If your version of Raspbian does not include pigpio
 sudo apt-get install pigpio
 ```
 
-More details of how to handle pi-topbattery problems can be found at
+More details of how to handle pi-top battery problems can be found at
 https://github.com/rricharz/pi-top-battery-status/blob/master/battery_problems.md
 
 To understand the output of the program, look at
