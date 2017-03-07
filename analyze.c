@@ -1,7 +1,7 @@
 /*
  * analyze.c
  * 
- * read/write ManufacturerAccess Data of bq40z60
+ * read/write Firmware Data of bq40z60
  * 
  * uses the pigpio library
  * 
