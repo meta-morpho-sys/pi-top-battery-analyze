@@ -21,5 +21,5 @@ More details of how to handle pi-top battery problems can be found at
 https://github.com/rricharz/pi-top-battery-status/blob/master/battery_problems.md
 
 To understand the output of the program, look at
-http://www.ti.com/lit/ug/sluua04c/sluua04c.pdf
+http://www.ti.com/lit/pdf/sluua04
 page 134 ff
